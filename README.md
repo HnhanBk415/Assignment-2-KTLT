@@ -33,7 +33,6 @@ Tải xuống **tất cả các file** và lưu vào **cùng một thư mục** 
 Ví dụ:
 ```
 ./main.exe test_unit TASK101
-
 ```
 ## Run code thành công
 
@@ -47,6 +46,3 @@ Test TASK105 -------------- PASS
 
 ----------- Test Results -----------
 All tests passed!
-
-
-
